@@ -16,6 +16,8 @@ body {
 
   background-color: rgb(26, 26, 26);
   color: aliceblue;
+  padding: 30px;
+
 
 }
 
@@ -39,7 +41,7 @@ strong {
 #tamanhoesforçado{
 
   font-size: 13px;
-  color: black;
+  color: rgb(255, 255, 255);
   
 }
 
@@ -54,20 +56,21 @@ strong {
     padding: 15px;
     height: 300px;
     background-color: rgb(138, 44, 226);
+    border-radius: 100px;
 
 }
 
 #meunome {
 
     text-align: center;
-
+    font-style: oblique;
 }
 
 .primeira {
 
     position: absolute;
-    top: 260px;
-    left: 300px;
+    top: 280px;
+    left: 320px;
 }
 
 .fotoetexto {
@@ -79,6 +82,6 @@ strong {
 
  ul.habili li:nth-child(odd) {
 
-    background-color: orange;
+    font-style: oblique;
 
 }
